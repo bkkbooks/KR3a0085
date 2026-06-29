@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3a0085/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部一
+  hash: sha256:0cca43e587e9c707aa7b5087f084e976ac80456101f009f4c0e78ad8fcc2f097
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0085_WYG_000-1a, image: WYG0714/WYG0714-0373a.png}
+body:
+  text: 讀書劄記儒家類提要臣等謹案讀書劄記八卷明徐問撰問字用中號養齊武進人𢎞治壬戌進士官至南京户部尚書諡莊裕是書為問巡撫貴州時與從學諸人問答隨時劄記而成所論天文厯象山川性理六經四子書皆守先儒成說其論學則一本程朱而力黜王守仁之學如古本大學親民格物知行合一各說皆逐條辨正問嘗與羅欽順書云王氏之學本諸象山至今眩惑人聽讀書劄記第二冊前實闢其說蓋以廣中侍讀黃才伯促而成之才伯者黃佐字也所云第二冊者即指此本第五卷中語今核其所闢各條大都托之或謂又稱為近學世學而並未斥言蓋是時王學方盛行故問不欲顯加排擯然所摘發多能切中癥結迥異乎叫囂強辨之流在明人語録中猶篤實而不支蔓者也乾隆四十二年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀讀書劄記原序書說命惟斆學半故學記曰學然後知不足教然後知困知不足然後能自反也知困然後能自彊也二者無窮達無老少無人已內外惟理所在以求無不足與困之患而後在人者有以裕於已在已者有以及於人焉余不敏且老於義理進修蓋嘗玩索而未能深得其味每驗諸動靜考諸前言若或㑹通啓悟洎諸生來質疑而考異者必參訂其是書而存之蓋取橫渠有開劄記之意管提學副使陳君則清與諸生段以金輩交請以喻各學生徒因併就正於有道若以其言為不可易則烏乎敢嘉靖甲午延陵徐問志
+  hash: sha256:f7ab95f25afcca3f2ede11ca1a40be13acaccad54eb413b8d186f5977c496a5e
+  markers:
+  - {type: page-break, offset: 305, content: '', id: KR3a0085_WYG_000-3a, image: WYG0714/WYG0714-0374c.png}
+metadata:
+  title: 讀書劄記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:00:30.778270'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3a0085/KR3a0085_000.txt
+hash: sha256:eb64aaac58e0b2177655ed9afa54f3ebadbdba10a86d27b6c4c43b8058d3604f

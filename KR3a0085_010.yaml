@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0085/krp/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少司馬延陵養齊徐翁先撫貴時興文振武西南載戢鄉貢士王惟忠段以金周礦葉履謙庠生吳鳴皞顧繼先黎宇潘維嶽輩凡若干人以斯道之未有聞也企翁門墻請廓蒙塞翁不鄙進之未踰年諸生恍然有得競録翁劄記舊草以永珍鏤惴惴然以弗獲公傳是愳乃釐為八卷僉議庀資夀之梓謂清偶有事學事介訓導楊時用過擕相示幸卒諦觀爰肅作而語曰子録翁之所記不越五萬言然於吾身天地事物之理罔不函蓋本諸聖賢之言為矩訓學者能即是而求之自當有㑹于心身以闖聖域視世之昡竒求異者萬萬不侔毋悅而不繹為也謹左右厥成與同志共之既竣事諸生屬清志嵗月義不容辭若翁德學勳業自有國是在豈孤謭所敢私邪嘉靖甲午四月甲辰後學閩陳則清謹跋
+  hash: sha256:69eb52d2e3001b04ed1c823bbcdfba268bae99ff1b4be47ab47cf136206be84a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0085_WYG_010-1a, image: WYG0714/WYG0714-0450a.png}
+metadata:
+  title: 讀書劄記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:00:30.778270'
+  juan_title: 後跋
+  source:
+    repository: kanripo
+    path: KR3a0085/KR3a0085_010.txt
+hash: sha256:76a0809cb78fd17c5d21fcf4ac92f2b47a9afd9ff151ffbb4f91c6a9db75b654
