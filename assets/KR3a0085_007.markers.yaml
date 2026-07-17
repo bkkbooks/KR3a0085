@@ -114,6 +114,7 @@ markers:
   - {type: line-break, offset: 295, content: '', id: KR3a0085_WYG_007-2a04}
   - {type: indent, offset: 295, content: 　, id: KR3a0085_krp_007-bkkind17}
   - {type: punctuation, offset: 312, content: (, id: KR3a0085_krp_007-bkkpn1}
+  - {type: voice, offset: 312, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 315, content: /, id: KR3a0085_krp_007-bkkpn2}
   - {type: punctuation, offset: 318, content: ), id: KR3a0085_krp_007-bkkpn3}
   - {type: 'kr:newline', offset: 318, content: '
@@ -1140,6 +1141,7 @@ markers:
   - {type: line-break, offset: 3556, content: '', id: KR3a0085_WYG_007-13a01}
   - {type: indent, offset: 3556, content: 　, id: KR3a0085_krp_007-bkkind171}
   - {type: punctuation, offset: 3557, content: (, id: KR3a0085_krp_007-bkkpn4}
+  - {type: voice, offset: 3557, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 3559, content: /, id: KR3a0085_krp_007-bkkpn5}
   - {type: punctuation, offset: 3561, content: ), id: KR3a0085_krp_007-bkkpn6}
   - {type: 'kr:newline', offset: 3578, content: '
@@ -1148,6 +1150,7 @@ markers:
   - {type: line-break, offset: 3578, content: '', id: KR3a0085_WYG_007-13a02}
   - {type: indent, offset: 3578, content: 　, id: KR3a0085_krp_007-bkkind172}
   - {type: punctuation, offset: 3585, content: (, id: KR3a0085_krp_007-bkkpn7}
+  - {type: voice, offset: 3585, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3586, content: /, id: KR3a0085_krp_007-bkkpn8}
   - {type: substitution, offset: 3586, original: 奸, replacement: 姦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16421}}
   - {type: punctuation, offset: 3587, content: ), id: KR3a0085_krp_007-bkkpn9}
@@ -1609,4 +1612,4 @@ markers:
 
       ', id: KR3a0085_krp_007-bkkkrnewl305}
   back: []
-hash: sha256:98287a0c9d5a0e341ec6071cca97f86750b873283db43549cfce2a828c6bf5b8
+hash: sha256:373f477c5fba74504c75eb5942b3c9a499a8f017f768b703862af26f4131dbb9
